@@ -592,7 +592,7 @@ a.scroll::after {
   padding-top: 10px;
   padding-bottom: 60px;
   color: #0099FF;
-/*  color: rgba(250, 250, 250, 0.9)*/
+  
   display: block;
   
 }
