@@ -1,1 +1,2 @@
-# Source code for the computer graphics project
+# Source code of the machine learning project
+Visit http://qxproject.ml/ to view.
